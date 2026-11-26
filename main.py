@@ -1,6 +1,3 @@
-Voilà la v2, celle avec les points, les indices chaud / froid, le niveau Expert et le classement top 3. C'est le code complet, tu peux le copier-coller tel quel.
-
-python
 """
 Divine un nombre - un jeu en Python avec 4 classes.
 
@@ -358,4 +355,4 @@ if __name__ == "__main__":
     main()
 
 
-Le fichier est aussi prêt ici, si tu préfères le télécharger au lieu de copier.
+
